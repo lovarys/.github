@@ -1,5 +1,19 @@
 ## Hi there 👋
 
+Lovarys is a business that provides technology consulting services, regarding API design and implementation.
+
+Our goal is to make your consumers love your as much as these [https://github.com/public-apis](Public APIs).
+
+### Services
+
+- REST APIs (resources)
+- gRPC
+- Golang implementations thereon
+
+### Contacts
+
+- hagemt: [Tor Hagemann](mailto:lovarys@onetooneandon.to)
+
 <!--
 
 **Here are some ideas to get you started:**
