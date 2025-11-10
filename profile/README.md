@@ -1,18 +1,12 @@
 ## Hi there 👋
 
-Lovarys is a business that provides technology consulting services, regarding API design and implementation.
+Lovarys is a business that provides local AI for professional offices. Treat us like you would your file cabinet, but with GPT.
 
-Our goal is to make your consumers love your as much as these [https://github.com/public-apis](Public APIs).
-
-### Services
-
-- REST APIs (resources)
-- gRPC
-- Golang implementations thereon
+Here, professional means "credentialed as a legal professional" or accountant, but we are opening up that definition over time.
 
 ### Contacts
 
-- hagemt: [Tor Hagemann](mailto:lovarys@onetooneandon.to)
+- [owners](mailto:lovarys@onetooneandon.to)
 
 <!--
 
