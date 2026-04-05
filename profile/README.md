@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-Lovarys is a business that provides local AI for professional offices. Treat us like you would your file cabinet, but with GPT.
+Lovarys provides local-first AI for business professionals. Treat us like you would your file cabinet, but with Claude/ChatGPT.
 
-Here, professional means "credentialed as a legal professional" or accountant, but we are opening up that definition over time.
+Here, a professional means "credentialed as a legal professional" or accountant, but we are opening up that definition over time.
 
 ### Contacts
 
